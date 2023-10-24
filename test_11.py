@@ -21,3 +21,4 @@ def write_prime(n):
     print(lst)
 
 n = int(input())
+print("jfkfk")
